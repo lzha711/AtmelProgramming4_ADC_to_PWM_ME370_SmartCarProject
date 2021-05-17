@@ -9,6 +9,3 @@ The pin connections are:
   
 This is a practice derived from the ME370 smart car project, where two ADC channels are used to read sensor (phototransistor) values and output PWM to control motor speed. 
 
-Last updated: 15 May 2021. 
-
-Circuit diagram is to be uploaded soon.
